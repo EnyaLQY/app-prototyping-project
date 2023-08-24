@@ -1,0 +1,44 @@
+{
+  "announ-1": {
+    "title": "Coffee Chat Opportunity Today!",
+    "content": "Are you interested in the fields of Computational Social Sciences, Critical Data Studies, Human-Computer Interaction, Interface Design or Ubiquitous Computing? Professor and students from these fields want to chat later this afternoon! Join them on the first floor of Gates Hall by Gimme! Coffee. The event is informal and starts around 4pm.",
+    "date": "Feb 29",
+    "visible": true,
+    "type": "social"
+  },
+  "announ-2": {
+    "title": "HCI Session Follow-Up",
+    "content": "The entire team from the HCI Research Lab want to thank all of you for the attention and questions at this morning's intro session. It seemed like quite a few were interested in getting in touch with the lab. If you would like to schedule a follow-up with the head of the lab, or any students that are currently working in the lab to learn more, follow the link (https://infosci.cornell.edu/research/human-computer-interaction) and look for contact details for Susan Fussell.",
+    "date": "Feb 28",
+    "visible": false,
+    "type": "info"
+  },
+  "announ-3": {
+    "title": "IS Career Fair",
+    "content": "Interested in seeing what kinds of opportunities are afforded a Cornell Info Sci PhD? Are you looking for a job or internship in the field of Information Science? Stop by the general the IS Career Fair on March 3rd from 10am-2pm in the Physical Sciences Building! This is a great opportunity to meet with recruiters from some of the top companies in the industry and learn more about available positions and why they value Cornell PhDs!",
+    "date": "Feb 27",
+    "visible": false,
+    "type": "job"
+  },
+  "announ-4": {
+    "title": "Lunch with an Info Sci Entrepreneur",
+    "content": "Are you interested in entrepreneurship? Want to learn more about what it takes to start your own business from one of Cornell's very own Info Sci PhD alumni? Join us for lunch with an entrepreneur in the field! This is a great opportunity to network and learn more about life after a Cornell PhD. The event is happening on March 1st at noon in Collegetown Bagels.",
+    "date": "Feb 26",
+    "visible": false,
+    "type": "social"
+  },
+  "announ-5": {
+    "title": "Intro to Machine Learning Workshop",
+    "content": "Are you interested in machine learning? Do you want to learn more about how to apply it to real-world problems? Join us for an introductory workshop on machine learning! This is a great opportunity to learn from Info Sci PhD students and get hands-on experience with some of the latest tools and techniques. The workshop is happening in between sessions from 2pm-5pm in Gates Hall. Stop by!",
+    "date": "Feb 25",
+    "visible": false,
+    "type": "info"
+  },
+  "announ-6": {
+    "title": "Welcome to Visit Day!",
+    "content": "Information Science offers options for study among a variety of fields, so that our students can create unique connections between disciplines and come up with an individualized course of study during their time in the program. For more information throughout the visit period, please feel free to contact us by phone, 607-255-3615 or 607-255-0772, email (ISadvising@cornell.edu), or visit the program offices located in 521 and 521A Rhodes Hall.",
+    "date": "Feb 24",
+    "visible": false,
+    "type": "info"
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "social-media-lab": {
+      "title": "Cornell Social Media lab",
+      "description":"Members of the Cornell Social Media Lab are interested in social behavior and technology, the impact of communication technology on well-being, and developing interventions that encourage prosocial behaviors. ",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://socialmedialab.cornell.edu/"
+    },
+    "social-technology-lab": {
+      "title": "Social Technology lab",
+      "description":"The Social Technologies Lab at Cornell Tech designs, builds, and studies social systems focusing on topics related to Technology, Media and Democracy.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://infosci.cornell.edu/people/phds"
+    },
+    "digital-life-initiative": {
+      "title": "Digital Life Initiative",
+      "description":"Digital Life Initiative explores societal perspectives surrounding the development and application of digital technology, focusing on ethics, policy, politics, and quality of life.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://www.dli.tech.cornell.edu/"
+    },
+    "machine-learning-at-cornell": {
+      "title": "Machine Learning at Cornell",
+      "description":"Machine Learning at Cornell is a interdisciplinary learning and research group made up of over 30 Cornell University faculty and hundreds of involved students and alumni. ",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://machinelearning.cis.cornell.edu/"
+    },
+    "future-of-learning-lab": {
+      "title": "Cornell Future of Learning lab",
+      "description":"The Future of Learning Lab is committed to advancing our understanding of the impact of technology in education and how it can be an engine of equality in society.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://learning.cis.cornell.edu/"
+    },
+    "artificial-intelligence-policy-and-practice": {
+      "title": "Artificial Intelligence, Policy, and Practice",
+      "description":"Artificial Intelligence, Policy, and Practice approach AI as a fundamentally socio-technical phenomenon, one that must be understood with both normative depth and technical precision. ",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://learning.cis.cornell.edu/"
+    }
+}

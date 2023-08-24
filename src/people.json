@@ -1,0 +1,26 @@
+{
+    "faculty": {
+      "title": "Faculty",
+      "description":"Our faculty includes department members and field faculty from other units who play an active role in advising and serving on doctoral committees.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://infosci.cornell.edu/people/faculty"
+    },
+    "phds": {
+      "title": "PhD Students",
+      "description":"Information Science is home to an extraordinary, dynamic, and diverse cohort of PhD students, whose research interests span the field, from natural language processing and 3D fabrication to ubiquitous computing and robotics.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://infosci.cornell.edu/people/phds"
+    },
+    "research-staff": {
+      "title": "Research Staff",
+      "description":"Post doctoral researchers and visiting scientists work alongside faculty or within specific labs to further discoveries in areas like social networks, mobile health, robot-assisted teamwork, and artificial intelligence.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://infosci.cornell.edu/people/research-staff"
+    },
+    "department-staff": {
+      "title": "Department Staff",
+      "description":"Meet our vital department staff who keep everything running smoothly",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Cornell%20Logo.jpg?itok=e56nro1P",
+      "link": "https://infosci.cornell.edu/people/staff"
+    }
+}

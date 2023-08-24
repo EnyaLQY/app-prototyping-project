@@ -1,0 +1,20 @@
+{
+    "Day-1": {
+        "day": "Sunday, March 12, 2023",
+        "lunch": "lunch [allergy-friendly with inclusive options]",
+        "dinner": "dinner [allergy-friendly with inclusive options]"
+
+    },
+    "Day-2": {
+        "day": "Monday, March 13, 2023",
+        "breakfast": "breakfast [allergy-friendly with inclusive options]",
+        "lunch": "lunch [allergy-friendly with inclusive options]",
+        "dinner": "dinner [allergy-friendly with inclusive options]"
+    },
+    "Day-3": {
+        "day": "Tuesday, March 14, 2023",
+        "breakfast": "breakfast [allergy-friendly with inclusive options]",
+        "lunch": "lunch [allergy-friendly with inclusive options]",
+        "dinner": "dinner [allergy-friendly with inclusive options]"
+    }
+}

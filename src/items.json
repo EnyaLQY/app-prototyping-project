@@ -1,0 +1,29 @@
+{
+    "day-1": {
+        "day": "Sunday, March 12, 2023",
+        "event1": "Applicants arrive in Ithaca throughout the day",
+        "event2": "Group dinner at 6 p.m. Location TBA",
+        "description": "PhD applicants will be arriving throughout the day and there will be a group dinner at 6 p.m.",
+        "img": "https://brand.cornell.edu/assets/images/photography/UP_2017_1304_147_select.jpg"
+
+    },
+    "day-2": {
+        "day": "Monday, March 13, 2023",
+        "event1": "Breakfast Welcome and Introduction and Program Overview with David Williamson (Chair) and Sue Fussell (Director of Graduate Studies)",
+        "event2": "Research Area Discussions",
+        "event3": "Broadening Participation Lunch",
+        "event4": "PhD student panel, Ithaca students",
+        "event5": "Group Dinner at 6 p.m. at the Statler Hotel",
+        "description": "The event includes introduction with a program overview, research area discussions, and a PhD student panel. Three meals are included.",
+        "img": "https://brand.cornell.edu/assets/images/photography/photo_2019_1468_006.jpg"
+    },
+    "day-3": {
+        "day": "Tuesday, March 14, 2023",
+        "event1": "Visitors check out of hotel",
+        "event2": "Tour of first-year space, campus tour with current Ph.D. students",
+        "event3": "Board bus to the Tech campus at 11:30 a.m. with box lunch provided",
+        "event4": "Arrive in NYC approximately 4:15 p.m. Current Ph.D. students will greet visitors and guide them to the Graduate Hotel on Roosevelt Island",
+        "description": "Visitors will check out of hotel, tour campus with Ph.D. students, and transport to Cornell Tech campus. Three meals are included.",
+        "img": "https://brand.cornell.edu/assets/images/photography/photo_2019_1497_048.jpg"
+    }
+}

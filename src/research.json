@@ -1,0 +1,45 @@
+{
+    "computational-social-science": {
+      "title": "Computational social science",
+      "description":"Growing use of the Internet and social media in the past decade has led to an explosion in the amount of social and behavioral data available to researchers.",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/computational%20social%20science%20vector-01.png?itok=76s9x4nK",
+      "link": "https://infosci.cornell.edu/research/computational-social-science"
+    },
+    "critical-data-studies": {
+      "title": "Critical Data Studies",
+      "description":"Cornell scholars in critical data studies examine the impacts of big data and algorithmic tools on culture, society, policy, law, and more. ",
+      "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/critical%20data%20studies%20banner%202.jpg?itok=n9Mbc47w",
+      "link": "https://infosci.cornell.edu/research/critical-data-studies"
+    },
+    "data-science": {
+        "title": "Data Science",
+        "description":"While their specific areas of research and inquiry vary, data scientists at Cornell share in a similar aim: to leverage computational methods to inform and improve society.",
+        "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Data%20Science%20banner.jpg?itok=r0ejeZFW",
+        "link": "https://infosci.cornell.edu/research/data-science"
+    },
+      "economics-and-information": {
+        "title": "Economics and Information",
+        "description":"Information Science-affiliated researchers within Economics and Information exhibit interdisciplinary knowledge of algorithms, networks, mathematics and more.",
+        "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Economics%20and%20Information%20Banner.jpg?itok=DFTISv9P",
+        "link": "https://infosci.cornell.edu/research/economics-and-information"
+    },
+      "education-technology": {
+        "title": "Education Technology",
+        "description":"Info Sci faculty within the Education Technology research area specialize in the design, development and evaluation of information technologies for education.",
+        "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Education%20Technology%20Banner.png?itok=3q3tfhTK",
+        "link": "https://infosci.cornell.edu/research/education-technology"
+    },
+      "ethics-law-and-policy": {
+        "title": "Ethics, Law and Policy",
+        "description":"Critical questions concerning law, policy and privacy are more relevant and timely as ever, as technology becomes more common, ubiquitous and potentially intrusive.",
+        "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/Ethics%20Law%20and%20Policy%20Banner.jpg?itok=SurZP84h",
+        "link": "https://infosci.cornell.edu/research/ethics-law-and-policy"
+    },
+      "human-computer-interaction": {
+        "title": "Human-Computer Interaction",
+        "description":"The HCI research area brings together a diverse core of Cornell designers, builders and investigators who help further our understanding of interactive technologies and their uses.",
+        "img": "https://infosci.cornell.edu/sites/default/files/styles/icon-100x100/public/HCI%20banner.jpg?itok=PAt0btJx",
+        "link": "https://infosci.cornell.edu/research/human-computer-interaction"
+  }
+
+}
